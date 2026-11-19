@@ -6,7 +6,7 @@ Right now I'm most excited about **agentic AI** and using it to solve real, prac
 
 ### 🚀 Projects
 
-**🤖 [AI Research Report Agent](https://github.com/qlairon/ai-research-report-agent)** *(in progress)*
+**🤖 [AI Research Report Agent](https://github.com/qlairon/blackjack_ai_agent)** *(in progress)*
 An agentic LLM workflow that turns a request into a structured, cited research report.
 - Stateful **LangGraph** pipeline with typed shared state and **Pydantic**-validated outputs at every step
 - Rule- and schema-based gates that stop or retry a step when its output is invalid
