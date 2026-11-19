@@ -14,7 +14,7 @@ An agentic LLM workflow that turns a request into a structured, cited research r
 - **LLM-as-a-judge** scoring for faithfulness, coverage and format, with capped feedback-driven retries
 - Provider-agnostic LLM layer: switch models through config alone (OpenRouter, Groq)
 
-**🚦 [Traffic Light Optimization with Deep RL](https://github.com/qlairon/traffic-light-drl)**
+**🚦 [Traffic Light Optimization with Deep RL](https://github.com/qlairon/Traffic-Light-Optimization-with-Deep-RL)**
 A custom intersection simulator with a 4-phase signal controller and stochastic vehicle arrivals, plus a **Double DQN** agent in **PyTorch** that learns which phase to choose.
 - Reward balances throughput against queue length and yellow-phase penalties
 - Interactive visualization with **Streamlit** and **Plotly**
